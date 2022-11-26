@@ -297,10 +297,31 @@
     }
 }
 
-@media (max-width:200px){
+@media (max-width:300px){
     body{
         font-size: 10px;
-     
+    }
+
+    .main-content h2{
+        font-size: 0.5em;
+    }
+
+    .main-content h3{
+        font-size: 0.9em;
     }
 }
+@media (max-width:200px){
+    body{
+        font-size: 5px;
+    }
+
+    .main-content h2{
+        font-size: 0.3em;
+    }
+
+    .main-content h3{
+        font-size: .5em;
+    }
+}
+
 /*End Media*/
