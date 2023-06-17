@@ -151,6 +151,7 @@
 .image-section img{
 	width: 100%;
 	height: auto;
+	border-radius: 10%;
 }
 .content-section .title{
 	text-transform: uppercase;
